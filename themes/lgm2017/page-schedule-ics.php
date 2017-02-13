@@ -12,7 +12,7 @@
 include(get_stylesheet_directory().'/page-schedule-class.php');
 $pageSchedule = new LGMPageSchedule();
 
-date_default_timezone_set('Europe/London');
+date_default_timezone_set('America/Sao_Paulo');
 
 $list = [];
 while ($item = $pageSchedule->next()) {
@@ -70,9 +70,9 @@ VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:LGM 2017 London
+X-WR-CALNAME:LGM 2017 Rio de Janeiro
 X-WR-TIMEZONE:UTC
-X-WR-CALDESC:Schedule for the Libre Graphics Meeting 2017 in London
+X-WR-CALDESC:Schedule for the Libre Graphics Meeting 2017 in Rio de Janeiro
 %list
 END:VCALENDAR
 ",

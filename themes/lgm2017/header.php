@@ -37,7 +37,7 @@
 						$lgm_title_content = '
 							<span class="logotype-lg">Libre Graphics</span> 
 							<span class="logotype-meeting-2017"><span class="logotype-meeting">Meeting</span> 2017<span class="logotype-hyphen"> - </span></span>
-							<span class="logotype-london">London<span class="logotype-hyphen"> - </span></span>
+							<span class="logotype-london">Rio de Janeiro<span class="logotype-hyphen"> - </span></span>
 							<span class="logotype-date">15-18 April</span>';
 					
 					if ( is_front_page() && is_home() ) : ?>

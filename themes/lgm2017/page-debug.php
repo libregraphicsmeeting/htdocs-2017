@@ -154,9 +154,9 @@ get_header(); ?>
 															
 														}
 														
-														$message .= " and will be part of the LGM 2017 program. The meeting takes place from Friday 15th April until Monday 18th April in London.\r\n\r\n";
+														$message .= " and will be part of the LGM 2017 program. The meeting takes place from Thursday 20th April until Sunday 23th April in Rio de Janeiro.\r\n\r\n";
 														
-														$message .= "We ask you to confirm by responding to this mail that you are indeed planning to join us in London. Please do so before Thursday February 4 so we can finalize the schedule!\r\n\r\n";
+														$message .= "We ask you to confirm by responding to this mail that you are indeed planning to join us in Rio de Janeiro. Please do so before Thursday February 4 so we can finalize the schedule!\r\n\r\n";
 														
 														$message .= "You can update your description by using the following link (you will be asked to define your password):\r\n";
 													
