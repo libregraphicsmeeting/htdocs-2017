@@ -36,9 +36,9 @@
 						
 						$lgm_title_content = '
 							<span class="logotype-lg">Libre Graphics</span> 
-							<span class="logotype-meeting-2017"><span class="logotype-meeting">Meeting</span> 2017<span class="logotype-hyphen"> - </span></span>
+							<span class="logotype-meeting-2018"><span class="logotype-meeting">Meeting</span> 2017<span class="logotype-hyphen"> - </span></span>
 							<span class="logotype-london">Rio de Janeiro<span class="logotype-hyphen"> - </span></span>
-							<span class="logotype-date">15-18 April</span>';
+							<span class="logotype-date">20-23 April</span>';
 					
 					if ( is_front_page() && is_home() ) : ?>
 						<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php echo $lgm_title_content; ?></a></h1>
